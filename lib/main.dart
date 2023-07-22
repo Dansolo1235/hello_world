@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget{
     return const MaterialApp(
         home: Material(
           child: Center(
-              child:Text("Hello wormnmnmld",
+              child:Text("Hello world",
                 textAlign: TextAlign.center,
                 textDirection: TextDirection.rtl,
                 textScaleFactor: 4.0,
